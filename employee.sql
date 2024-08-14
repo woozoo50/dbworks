@@ -1,3 +1,6 @@
+DROP TABLE employee;
+
+
 -- 테이블 생성 (-- 주석)
 /*
 테이블 생성
